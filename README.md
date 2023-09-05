@@ -6,7 +6,7 @@ En este Repositorio podras encontrar todos los artes que corresponden a la comun
 ### Listado de artes
 - Invitaciones a eventos
     - [Formato movil](./invitaciones/README.md) para historias
-    - [Formato horizontal] para publicaciones
+    - [Formato horizontal](./invitaciones/README.md) para publicaciones
 - [Rust Evangelizador](./evangelizador/README.md)
 
 ### Artes por hacer
