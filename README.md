@@ -6,11 +6,11 @@ En este Repositorio podras encontrar todos los artes que corresponden a la comun
 ### Listado de artes
 - Invitaciones a eventos
     - [Formato movil](./invitaciones/README.md) para historias
-    - Formato horizontal para publicaciones (por hacer)
+    - [Formato horizontal] para publicaciones
 - [Rust Evangelizador](./evangelizador/README.md)
 
 ### Artes por hacer
 - [ ] Figma de la pagina web (a discutir)
-- [ ] Formato horizontal de las invitaciones
+- [x] Formato horizontal de las invitaciones
 - [ ] Vista previa al compartir la pagina
 - [ ] PSD del icono de Rust con las banderas en circulo
