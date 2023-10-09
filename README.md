@@ -16,4 +16,4 @@ En este Repositorio podras encontrar todos los artes que corresponden a la comun
 - [ ] Figma de la pagina web (a discutir)
 - [x] Formato horizontal de las invitaciones
 - [ ] Vista previa al compartir la pagina
-- [ ] PSD del icono de Rust con las banderas en circulo
+- [x] PSD del icono de Rust con las banderas en circulo
