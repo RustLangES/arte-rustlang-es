@@ -4,6 +4,9 @@
 En este Repositorio podras encontrar todos los artes que corresponden a la comunidad de [](https://rustlanges.github.io), todos los aportes y cambios son bienvenidos
 
 ### Listado de artes
+- Logo de la comunidad
+    - [Version con Ferris](./logo/README.md)
+    - [Version con el Logo de Rust](./logo/README.md)
 - Invitaciones a eventos
     - [Formato movil](./invitaciones/README.md) para historias
     - [Formato horizontal](./invitaciones/README.md) para publicaciones
