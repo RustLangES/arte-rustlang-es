@@ -1,6 +1,8 @@
 ## Elementos para la libreria de recursos en [Excalidraw](https://excalidraw.com)
 Puedes seguir el estado de la PR [aqui](https://github.com/excalidraw/excalidraw-libraries/pull/1227)
-Mientras la PR se aprueba, puedes encontrar la libreria [aqui](https://excalidraw-libraries-git-rustlanges-rust-basi-cb4538-excalidraw.vercel.app/?theme=dark&sort=default#rustlanges-rust-basics)
+
+> [!NOTE]
+> Mientras la PR se aprueba, puedes encontrar la libreria [aqui](https://excalidraw-libraries-git-rustlanges-rust-basi-cb4538-excalidraw.vercel.app/?theme=dark&sort=default#rustlanges-rust-basics)
 
 > [!IMPORTANT]
 > Los que se visualizan con colores erroneos son para el tema opuesto
