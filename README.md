@@ -11,6 +11,7 @@ En este Repositorio podras encontrar todos los artes que corresponden a la comun
     - [Formato movil](./invitaciones/README.md) para historias
     - [Formato horizontal](./invitaciones/README.md) para publicaciones
 - [Rust Evangelizador](./evangelizador/README.md)
+- [Patron repetido para Banners](./background/README.md)
 
 ### Artes por hacer
 - [ ] Figma de la pagina web (a discutir)
