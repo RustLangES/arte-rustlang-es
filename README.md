@@ -1,4 +1,4 @@
-![Rustificador](https://github.com/RustLangES/arte-rustlang-es/assets/56278796/d18bbef5-4d25-4869-a966-e891f4b1f400)
+![Rustificador](https://github.com/RustLangES/arte-rustlang-es/blob/main/evangelizador/Rustificador.png?raw=true)
 
 # Repositorio de Arte
 En este Repositorio podras encontrar todos los artes que corresponden a la comunidad de [](https://rustlanges.github.io), todos los aportes y cambios son bienvenidos
