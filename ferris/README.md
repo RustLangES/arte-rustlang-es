@@ -5,3 +5,4 @@
 ![Chambea_JALA](./images/FerrisChambeador.png)
 ![Rustificador](./images/Rustificador.png)
 ![hacktoberfest2024](./images/2024-Hacktoberfest.png)
+![Ferris Muajaja](./images/muajaja.png) | [[SVG](./svg/muajaja.svg)]
